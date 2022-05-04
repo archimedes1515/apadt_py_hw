@@ -1,2 +1,4 @@
 # apadt_py_hw
-Homeworks from python adaptive course (HSE)
+Homeworks from python adaptive course (HSE):
+*Calculator 
+*Crawler
